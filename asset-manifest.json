@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shifavoila/dum/static/css/main.108bbdc1.css",
+    "main.js": "/shifavoila/dum/static/js/main.52c718bc.js",
+    "static/js/488.861b3857.chunk.js": "/shifavoila/dum/static/js/488.861b3857.chunk.js",
+    "index.html": "/shifavoila/dum/index.html",
+    "main.108bbdc1.css.map": "/shifavoila/dum/static/css/main.108bbdc1.css.map",
+    "main.52c718bc.js.map": "/shifavoila/dum/static/js/main.52c718bc.js.map",
+    "488.861b3857.chunk.js.map": "/shifavoila/dum/static/js/488.861b3857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108bbdc1.css",
+    "static/js/main.52c718bc.js"
+  ]
+}
